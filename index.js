@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 5000;
 const Card = require("./src/card");
 
 router.get("/api", async (ctx) => {
-  const { type, txt } = ctx.request.query;
+  const { type = "react", txt = type } = ctx.request.query;
 
   ctx.set("Content-Type", "image/svg+xml");
 
@@ -31,7 +31,7 @@ router.get("/api", async (ctx) => {
       />
       ${Card(type)}
       <text fill="#61DAFB" class="right-txt" x="45" y="21">
-      ${txt ? txt : type}
+      ${txt}
       </text>
     </svg>  
   `;
