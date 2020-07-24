@@ -6,10 +6,10 @@ viewBox="0 0 1024 1024"
 version="1.1"
 xmlns="http://www.w3.org/2000/svg"
 p-id="2407"
-width="25"
-height="25"
+width="22"
+height="22"
 x="8"
-y="4"
+y="5"
 >
 <style>
   @keyframes test {
@@ -20,21 +20,13 @@ y="4"
       transform: rotate(360deg);
     }
   }
-  .text {
-    font: 600 16px "Segoe UI", Ubuntu, Sans-Serif;
-    fill: #2f80ed;
-  }
-  .small {
-    font: 600 12px "Segoe UI", Ubuntu, Sans-Serif;
-    fill: #252525;
-  }
-  .pa {
+  .ani-cls {
     transform-origin: center 50%;
     transform: rotate(0deg);
     animation: test 13s infinite linear;
   }
 </style>
-<g class="pa">
+<g class="ani-cls">
   <path
     fill="#61DAFB"
     d="M512 512m-91.264 0a91.264 91.264 0 1 0 182.528 0 91.264 91.264 0 1 0-182.528 0Z"
