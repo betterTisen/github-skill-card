@@ -16,7 +16,7 @@ module.exports = {
     defaultText: "Vue",
   },
   typescript: {
-    RectWidth: 103,
+    RectWidth: 108,
     fontX: 37,
     fontY: 21,
     fontColor: "#0288D1",
@@ -24,7 +24,7 @@ module.exports = {
     defaultText: "TypeScript",
   },
   javascript: {
-    RectWidth: 103,
+    RectWidth: 106,
     fontX: 37,
     fontY: 21,
     fontColor: "#ffca28",
@@ -48,7 +48,7 @@ module.exports = {
     defaultText: "CSS",
   },
   graphql: {
-    RectWidth: 93,
+    RectWidth: 101,
     fontX: 36,
     fontY: 21,
     fontColor: "#EC407A",
