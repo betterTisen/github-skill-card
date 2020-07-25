@@ -30,8 +30,3 @@ Change the `?type=` value to your GitHub's Skill Type.
 | React      | [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card)      |
 | Vue        | [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=vue)](https://github.com/betterTisen/github-skill-card)        |
 | GraphQL    | [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=graphql)](https://github.com/betterTisen/github-skill-card)    |
-
-
-## Finally
-
-If you have a good idea about this project, you can submit a PR.
