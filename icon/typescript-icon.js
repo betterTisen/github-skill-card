@@ -10,8 +10,6 @@ module.exports = `
     height="25"
     x="5"
     y="4"
-    rx="5"
-    ry="5"
   >
     <style>
       @keyframes movAni {
