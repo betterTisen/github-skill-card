@@ -4,6 +4,7 @@ const typescript = require("./typescript-icon")
 const javascript = require("./javascript-icon")
 const html = require("./html-icon")
 const css = require("./css-icon")
+const graphql = require("./graphql-icon")
 
 module.exports = {
   react,
@@ -12,4 +13,5 @@ module.exports = {
   javascript,
   html,
   css,
+  graphql,
 }
