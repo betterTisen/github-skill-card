@@ -20,4 +20,11 @@ module.exports = {
     fontColor: "#0288D1",
     fontSize: 13,
   },
+  javascript: {
+    RectWidth: 103,
+    fontX: 37,
+    fontY: 21,
+    fontColor: "#ffca28",
+    fontSize: 13,
+  },
 }
