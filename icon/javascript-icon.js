@@ -19,7 +19,7 @@ module.exports = `
         0% {
           transform: rotate(20deg) translateX(-300%);
         }
-        50% {
+        70% {
           transform: rotate(20deg) translateX(300%);
         }
         100% {
@@ -27,8 +27,7 @@ module.exports = `
         }
       }
       .mov {
-        transform: translateX(0%);
-        animation: movAni 8s infinite linear;
+        animation: movAni 6s infinite linear;
       }
     </style>
     <rect x="0" y="0" width="1024" height="1024" style="fill: #000;" />

@@ -16,7 +16,7 @@ module.exports = `
         0% {
           transform: rotate(20deg) translateX(-300%);
         }
-        50% {
+        70% {
           transform: rotate(20deg) translateX(300%);
         }
         100% {
@@ -24,8 +24,7 @@ module.exports = `
         }
       }
       .mov {
-        transform: translateX(0%);
-        animation: movAni 8s infinite linear;
+        animation: movAni 6s infinite linear;
       }
     </style>
     <path d="M88.064 27.648l77.824 871.424L512 996.352l346.112-97.28 77.824-871.424z" fill="#2196F3" p-id="14657"></path>
