@@ -33,7 +33,7 @@ module.exports = {
   },
   html: {
     RectWidth: 90,
-    fontX: 45,
+    fontX: 42,
     fontY: 21,
     fontColor: "#FC490B",
     fontSize: 14,
