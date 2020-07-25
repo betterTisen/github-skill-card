@@ -42,7 +42,7 @@ module.exports = {
     fontSize: 14,
   },
   graphql: {
-    RectWidth: 90,
+    RectWidth: 93,
     fontX: 36,
     fontY: 21,
     fontColor: "#EC407A",
