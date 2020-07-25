@@ -27,4 +27,18 @@ module.exports = {
     fontColor: "#ffca28",
     fontSize: 13,
   },
+  html: {
+    RectWidth: 90,
+    fontX: 45,
+    fontY: 21,
+    fontColor: "#FC490B",
+    fontSize: 14,
+  },
+  css: {
+    RectWidth: 90,
+    fontX: 45,
+    fontY: 21,
+    fontColor: "#2196F3",
+    fontSize: 14,
+  },
 }
