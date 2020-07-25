@@ -19,4 +19,8 @@ router.get("/api", async (ctx) => {
 app
   .use(router.routes())
   .use(router.allowedMethods())
-  .listen(PORT, console.log(`Listening on http://127.0.0.1:${PORT}`));
+  .use(async (ctx) => {
+    ctx.status = 404;
+    ctx.response.redirect("https://github.com/betterTisen/github-skill-card");
+  })
+  .listen(PORT, console.log(`Listening on http://127.0.0.1:${PORT}/api`))
