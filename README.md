@@ -4,8 +4,6 @@
  <p align="center"> Show your skills on your github readmes!</p>
 </p>
 <p align="center">
-  <a href="#demo">View Demo</a>
-  ·
   <a href="https://github.com/betterTisen/github-skill-card/issues">Report Bug</a>
   ·
   <a href="https://github.com/anuraghazra/github-readme-stats/issues">Request Feature</a>
@@ -15,7 +13,7 @@
 
 Copy paste this into your markdown content, and that's it. Simple!
 
-Change the `?username=` value to your GitHub's Skill Type.
+Change the `?type=` value to your GitHub's Skill Type.
 
 ```markdown
 [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=html)](https://github.com/betterTisen/github-skill-card)
