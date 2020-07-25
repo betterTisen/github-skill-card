@@ -23,7 +23,7 @@ y="5"
   .ani-cls {
     transform-origin: center 50%;
     transform: rotate(0deg);
-    animation: test 13s infinite linear;
+    animation: test 18s infinite linear;
   }
 </style>
 <g class="ani-cls">
