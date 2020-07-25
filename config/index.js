@@ -13,4 +13,11 @@ module.exports = {
     fontColor: "#41B883",
     fontSize: 14,
   },
+  typescript: {
+    RectWidth: 103,
+    fontX: 37,
+    fontY: 21,
+    fontColor: "#0288D1",
+    fontSize: 13,
+  },
 }
