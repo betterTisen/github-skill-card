@@ -5,6 +5,7 @@ module.exports = {
     fontY: 21,
     fontColor: "#61DAFB",
     fontSize: 14,
+    defaultText: "React",
   },
   vue: {
     RectWidth: 90,
@@ -12,6 +13,7 @@ module.exports = {
     fontY: 21,
     fontColor: "#41B883",
     fontSize: 14,
+    defaultText: "Vue",
   },
   typescript: {
     RectWidth: 103,
@@ -19,6 +21,7 @@ module.exports = {
     fontY: 21,
     fontColor: "#0288D1",
     fontSize: 13,
+    defaultText: "TypeScript",
   },
   javascript: {
     RectWidth: 103,
@@ -26,6 +29,7 @@ module.exports = {
     fontY: 21,
     fontColor: "#ffca28",
     fontSize: 13,
+    defaultText: "JavaScript",
   },
   html: {
     RectWidth: 90,
@@ -33,6 +37,7 @@ module.exports = {
     fontY: 21,
     fontColor: "#FC490B",
     fontSize: 14,
+    defaultText: "HTML",
   },
   css: {
     RectWidth: 90,
@@ -40,6 +45,7 @@ module.exports = {
     fontY: 21,
     fontColor: "#2196F3",
     fontSize: 14,
+    defaultText: "CSS",
   },
   graphql: {
     RectWidth: 93,
@@ -47,5 +53,6 @@ module.exports = {
     fontY: 21,
     fontColor: "#EC407A",
     fontSize: 14,
+    defaultText: "GraphQL",
   },
 }

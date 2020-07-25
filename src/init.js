@@ -3,8 +3,7 @@ const ConfList = require("../config")
 const Icon = require("../icon")
 
 module.exports = function (type) {
-  
-  const { RectWidth, fontX, fontY, fontColor, fontSize } = ConfList[type]
+  const { RectWidth, fontX, fontY, fontColor, fontSize, defaultText } = ConfList[type]
 
   return `
     <svg width="${RectWidth + 2}" height="32" xmlns="http://www.w3.org/2000/svg">
@@ -25,7 +24,7 @@ module.exports = function (type) {
         }
       </style>
       <text fill="${fontColor}" class="right-txt" x="${fontX}" y="${fontY}">
-        ${type}
+        ${defaultText}
       </text>
     </svg>  
   `
