@@ -1,5 +1,5 @@
 <p align="center">
- <img width="150px" src="https://imgkr.cn-bj.ufileos.com/056279b6-f2c1-4bdd-8ced-0a5b31d567d9.png" align="center" alt="Github Readme Stats" /> 
+ <img width="150px" src="https://cdn.byeguo.cn/github/logo/method-draw-image%20%281%29.png" align="center" alt="Github Readme Stats" /> 
  <h2 align="center">GitHub Skill Card</h2>
  <p align="center"> Show your skills on your github readmes!</p>
 </p>
