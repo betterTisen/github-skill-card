@@ -29,4 +29,5 @@ Change the `?type=` value to your GitHub's Skill Type.
 | Typescript | [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=typescript)](https://github.com/betterTisen/github-skill-card) |
 | React      | [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card)      |
 | Vue        | [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=vue)](https://github.com/betterTisen/github-skill-card)        |
+| Svelte     | [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=svelte)](https://github.com/betterTisen/github-skill-card)     |
 | GraphQL    | [![skill](https://pure-escarpment-54474.herokuapp.com/api?type=graphql)](https://github.com/betterTisen/github-skill-card)    |

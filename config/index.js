@@ -15,6 +15,14 @@ module.exports = {
     fontSize: 14,
     defaultText: "Vue",
   },
+  svelte: {
+    RectWidth: 90,
+    fontX: 45,
+    fontY: 21,
+    fontColor: "#FF5722",
+    fontSize: 14,
+    defaultText: "Vue",
+  },
   typescript: {
     RectWidth: 108,
     fontX: 37,

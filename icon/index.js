@@ -1,5 +1,6 @@
 const react = require("./react-icon")
 const vue = require("./vue-icon")
+const svelte = require("./svelte-icon")
 const typescript = require("./typescript-icon")
 const javascript = require("./javascript-icon")
 const html = require("./html-icon")
@@ -14,4 +15,5 @@ module.exports = {
   html,
   css,
   graphql,
+  svelte
 }
