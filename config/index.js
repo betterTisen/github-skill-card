@@ -17,11 +17,11 @@ module.exports = {
   },
   svelte: {
     RectWidth: 90,
-    fontX: 45,
+    fontX: 40,
     fontY: 21,
     fontColor: "#FF5722",
     fontSize: 14,
-    defaultText: "Vue",
+    defaultText: "Svelte",
   },
   typescript: {
     RectWidth: 108,

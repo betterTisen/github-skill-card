@@ -1,5 +1,5 @@
 module.exports = `
-<svg t="1611224334352" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="22" width="22" height="200" x="8" y="5">
+<svg t="1611224334352" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="22" width="22" height="22" x="8" y="5">
   <style>
   @keyframes test {
     0% {
